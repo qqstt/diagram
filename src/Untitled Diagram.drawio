@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T10:51:14.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="hQ4lG41bpsxO5vzS72_y" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T10:53:54.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Rj0IbzABdYWGLihH0m5q" version="17.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1697" dy="949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,7 +214,7 @@
         <mxCell id="sv7OaY-NYu5rm58tcONJ-60" value="......" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="214" y="917" width="76" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="sv7OaY-NYu5rm58tcONJ-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sv7OaY-NYu5rm58tcONJ-61" value="消金业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="713" width="693" height="38" as="geometry" />
         </mxCell>
       </root>

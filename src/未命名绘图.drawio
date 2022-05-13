@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T09:17:24.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="17.4.6" etag="2PaFID4ONRRAmp-YLYxv" type="github"><diagram id="1_hGNi3Mrbg5MefZcU71">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-13T09:25:35.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Z93uvlJaiKREp4BFY0mT" version="17.4.6" type="github">
+  <diagram id="1_hGNi3Mrbg5MefZcU71" name="第 1 页">
+    <mxGraphModel dx="2524" dy="949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RsF_KDdeQy7hMHcgLvcT-1" value="" style="swimlane;startSize=20;horizontal=1;containerType=tree;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-401" y="383" width="510" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="RsF_KDdeQy7hMHcgLvcT-6" value="superset-frontend" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="RsF_KDdeQy7hMHcgLvcT-1">
+          <mxGeometry x="141" y="84.5" width="116" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="RsF_KDdeQy7hMHcgLvcT-15" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="RsF_KDdeQy7hMHcgLvcT-16" source="RsF_KDdeQy7hMHcgLvcT-6" parent="RsF_KDdeQy7hMHcgLvcT-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="386" y="464" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsF_KDdeQy7hMHcgLvcT-16" value="dashboard" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="RsF_KDdeQy7hMHcgLvcT-1">
+          <mxGeometry x="380" y="84" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsF_KDdeQy7hMHcgLvcT-14" value="sqllab相关" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="-45" y="669" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsF_KDdeQy7hMHcgLvcT-13" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" source="RsF_KDdeQy7hMHcgLvcT-6" target="RsF_KDdeQy7hMHcgLvcT-14" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RsF_KDdeQy7hMHcgLvcT-18" value="explore" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="-25" y="321" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RsF_KDdeQy7hMHcgLvcT-17" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="RsF_KDdeQy7hMHcgLvcT-18" source="RsF_KDdeQy7hMHcgLvcT-6" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512" y="848" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

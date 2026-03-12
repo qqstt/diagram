@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram id="exN9He7QCqvmtrnpTgVh" name="第 1 页">
-    <mxGraphModel dx="1298" dy="1097" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1527" dy="774" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,13 +13,13 @@
           <mxGeometry height="40" width="106" x="300" y="130" as="geometry" />
         </mxCell>
         <mxCell id="jyDaiIP-EExztPaQqgR1-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;fontSize=18;strokeColor=#b85450;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;@magic-platform/magic-box&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DxfHdrzcuoXOEqxZpcIcURhInae&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;@magic-platform/magic-box&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+p&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7068583431243890692&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:23,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;JIQad8sEWowKi4xaQBFcA7dcnKf&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="170" x="310" y="340" as="geometry" />
+          <mxGeometry height="40" width="170" x="302" y="302" as="geometry" />
         </mxCell>
         <mxCell id="jyDaiIP-EExztPaQqgR1-20" edge="1" parent="1" source="jyDaiIP-EExztPaQqgR1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;curved=1;" target="jyDaiIP-EExztPaQqgR1-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="260" />
-              <mxPoint x="220" y="360" />
+              <mxPoint x="220" y="322" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -36,13 +36,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jyDaiIP-EExztPaQqgR1-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;sketch=1;fontSize=18;strokeColor=#82b366;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;old-record-id-JIUMdYc0Mokse0xesCvchkcxnsd&quot; style=&quot;&quot;&gt;@magic-platform/svg-vue  &lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DxfHdrzcuoXOEqxZpcIcURhInae&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;@magic-platform/svg-vue  &amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+p&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7068583431243890692&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:24,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;JIUMdYc0Mokse0xesCvchkcxnsd&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="170" x="498" y="140" as="geometry" />
+          <mxGeometry height="40" width="170" x="462" y="174" as="geometry" />
         </mxCell>
         <mxCell id="jyDaiIP-EExztPaQqgR1-22" edge="1" parent="1" source="jyDaiIP-EExztPaQqgR1-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;" target="jyDaiIP-EExztPaQqgR1-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jyDaiIP-EExztPaQqgR1-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;sketch=1;fontSize=18;strokeColor=#82b366;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;old-record-id-JIUMdYc0Mokse0xesCvchkcxnsd&quot; style=&quot;&quot;&gt;@magic-platform/svg&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DxfHdrzcuoXOEqxZpcIcURhInae&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;@magic-platform/svg-vue  &amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+p&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7068583431243890692&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:24,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;JIUMdYc0Mokse0xesCvchkcxnsd&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="170" x="500" y="50" as="geometry" />
+          <mxGeometry height="40" width="170" x="456" y="100" as="geometry" />
         </mxCell>
         <mxCell id="jyDaiIP-EExztPaQqgR1-12" edge="1" parent="1" source="jyDaiIP-EExztPaQqgR1-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontSize=12;fontColor=#1D3557;fillColor=#A8DADC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;" target="jyDaiIP-EExztPaQqgR1-7">
           <mxGeometry relative="1" as="geometry">
@@ -69,59 +69,146 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hOhRMqw4yTQhJWyc-Z4-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;monorepo&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="106" x="1018" y="438" as="geometry" />
+          <mxGeometry height="40" width="106" x="1025" y="30" as="geometry" />
         </mxCell>
         <mxCell id="9hOhRMqw4yTQhJWyc-Z4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;fontSize=18;strokeColor=#b85450;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;@magic-platform/magic-box&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DxfHdrzcuoXOEqxZpcIcURhInae&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;@magic-platform/magic-box&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+p&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7068583431243890692&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:23,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;JIQad8sEWowKi4xaQBFcA7dcnKf&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="170" x="1061" y="760" as="geometry" />
+          <mxGeometry height="40" width="170" x="1122" y="315" as="geometry" />
         </mxCell>
         <mxCell id="9hOhRMqw4yTQhJWyc-Z4-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;sketch=1;fontSize=18;strokeColor=#d79b00;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@magic-platform&lt;/span&gt;/mobile-magic&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="170" x="860" y="762" as="geometry" />
+          <mxGeometry height="40" width="170" x="884" y="311" as="geometry" />
         </mxCell>
         <mxCell id="9hOhRMqw4yTQhJWyc-Z4-6" edge="1" parent="1" source="9hOhRMqw4yTQhJWyc-Z4-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;" target="9hOhRMqw4yTQhJWyc-Z4-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9hOhRMqw4yTQhJWyc-Z4-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;sketch=1;fontSize=18;strokeColor=#d79b00;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot;&gt;@magic/shared-utils&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="170" x="799" y="509" as="geometry" />
+          <mxGeometry height="40" width="170" x="876" y="199" as="geometry" />
         </mxCell>
         <mxCell id="9hOhRMqw4yTQhJWyc-Z4-8" edge="1" parent="1" source="9hOhRMqw4yTQhJWyc-Z4-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1153" y="766" as="targetPoint" />
+            <mxPoint x="1243" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9hOhRMqw4yTQhJWyc-Z4-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;sketch=1;fontSize=18;strokeColor=#82b366;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;old-record-id-JIUMdYc0Mokse0xesCvchkcxnsd&quot; style=&quot;&quot;&gt;@magic-platform/svg-vue  &lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DxfHdrzcuoXOEqxZpcIcURhInae&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;@magic-platform/svg-vue  &amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+p&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7068583431243890692&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:24,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;JIUMdYc0Mokse0xesCvchkcxnsd&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="170" x="1145" y="611" as="geometry" />
-        </mxCell>
-        <mxCell id="9hOhRMqw4yTQhJWyc-Z4-10" edge="1" parent="1" source="9hOhRMqw4yTQhJWyc-Z4-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;" target="9hOhRMqw4yTQhJWyc-Z4-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9hOhRMqw4yTQhJWyc-Z4-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;sketch=1;fontSize=18;strokeColor=#82b366;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;old-record-id-JIUMdYc0Mokse0xesCvchkcxnsd&quot; style=&quot;&quot;&gt;@magic-platform/svg&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DxfHdrzcuoXOEqxZpcIcURhInae&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;@magic-platform/svg-vue  &amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+p&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7068583431243890692&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:24,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;JIUMdYc0Mokse0xesCvchkcxnsd&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="170" x="1168" y="515" as="geometry" />
-        </mxCell>
-        <mxCell id="9hOhRMqw4yTQhJWyc-Z4-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;sketch=1;fontSize=18;strokeColor=#d79b00;" value="&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;@magic/shared-component&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="38" width="170" x="908" y="602" as="geometry" />
+          <mxGeometry height="40" width="170" x="1000" y="108" as="geometry" />
         </mxCell>
         <mxCell id="9hOhRMqw4yTQhJWyc-Z4-20" edge="1" parent="1" source="9hOhRMqw4yTQhJWyc-Z4-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="9hOhRMqw4yTQhJWyc-Z4-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="852" y="497" as="sourcePoint" />
-            <mxPoint x="833" y="594" as="targetPoint" />
+            <mxPoint x="942" y="-28" as="sourcePoint" />
+            <mxPoint x="923" y="69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hOhRMqw4yTQhJWyc-Z4-22" edge="1" parent="1" source="9hOhRMqw4yTQhJWyc-Z4-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="9hOhRMqw4yTQhJWyc-Z4-3">
+        <mxCell id="9hOhRMqw4yTQhJWyc-Z4-22" edge="1" parent="1" source="9hOhRMqw4yTQhJWyc-Z4-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="9hOhRMqw4yTQhJWyc-Z4-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949" y="554" as="sourcePoint" />
-            <mxPoint x="1043" y="791" as="targetPoint" />
+            <mxPoint x="1039" y="29" as="sourcePoint" />
+            <mxPoint x="1133" y="266" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9hOhRMqw4yTQhJWyc-Z4-24" edge="1" parent="1" source="9hOhRMqw4yTQhJWyc-Z4-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9hOhRMqw4yTQhJWyc-Z4-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="895" y="714" as="sourcePoint" />
-            <mxPoint x="1135" y="754" as="targetPoint" />
+            <mxPoint x="985" y="189" as="sourcePoint" />
+            <mxPoint x="1225" y="229" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9hOhRMqw4yTQhJWyc-Z4-26" edge="1" parent="1" source="9hOhRMqw4yTQhJWyc-Z4-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9hOhRMqw4yTQhJWyc-Z4-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905" y="568" as="sourcePoint" />
-            <mxPoint x="1014" y="621" as="targetPoint" />
+            <mxPoint x="995" y="43" as="sourcePoint" />
+            <mxPoint x="1104" y="96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-1" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontSize=12;fontColor=#1D3557;fillColor=#A8DADC;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1129" y="553" as="sourcePoint" />
+            <mxPoint x="1039" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-20" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;" target="LD4Y7jaBsphct8bkbTKW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;monorepo&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="106" x="1129" y="533" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;fontSize=18;strokeColor=#82b366;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;@magic-platform/magic-box&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DxfHdrzcuoXOEqxZpcIcURhInae&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;@magic-platform/magic-box&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+p&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7068583431243890692&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:23,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;JIQad8sEWowKi4xaQBFcA7dcnKf&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="1184" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-24" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;strokeColor=#9933FF;" target="LD4Y7jaBsphct8bkbTKW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="697" />
+              <mxPoint x="1099" y="697" />
+              <mxPoint x="1099" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;sketch=1;fontSize=18;strokeColor=#d79b00;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot;&gt;@magic/shared-component&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="875" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;" target="LD4Y7jaBsphct8bkbTKW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="954" y="563" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;sketch=1;fontSize=18;strokeColor=#d79b00;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot;&gt;@magic/shared-utils&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="877" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-8" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="LD4Y7jaBsphct8bkbTKW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#FFFFFF;sketch=1;fontSize=18;strokeColor=#b85450;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;old-record-id-JIUMdYc0Mokse0xesCvchkcxnsd&quot; style=&quot;&quot;&gt;@magic-platform/svg-vue  &lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DxfHdrzcuoXOEqxZpcIcURhInae&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;@magic-platform/svg-vue  &amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+p&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7068583431243890692&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:24,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;JIUMdYc0Mokse0xesCvchkcxnsd&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="1291" y="577" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-10" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;" target="LD4Y7jaBsphct8bkbTKW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#FFFFFF;sketch=1;fontSize=18;strokeColor=#b85450;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;old-record-id-JIUMdYc0Mokse0xesCvchkcxnsd&quot; style=&quot;&quot;&gt;@magic-platform/svg&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DxfHdrzcuoXOEqxZpcIcURhInae&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;@magic-platform/svg-vue  &amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+p&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7068583431243890692&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:24,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;JIUMdYc0Mokse0xesCvchkcxnsd&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="1285" y="503" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-12" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontSize=12;fontColor=#1D3557;fillColor=#A8DADC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;" target="LD4Y7jaBsphct8bkbTKW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1142.8" y="543" as="sourcePoint" />
+            <mxPoint x="1069" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-13" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontSize=12;fontColor=#1D3557;fillColor=#A8DADC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;" target="LD4Y7jaBsphct8bkbTKW-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1152.8" y="553" as="sourcePoint" />
+            <mxPoint x="1079" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-14" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontSize=12;fontColor=#1D3557;fillColor=#A8DADC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;" target="LD4Y7jaBsphct8bkbTKW-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1162.8" y="563" as="sourcePoint" />
+            <mxPoint x="1089" y="533" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-15" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-2" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontSize=12;fontColor=#1D3557;fillColor=#A8DADC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;" target="LD4Y7jaBsphct8bkbTKW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1172.8" y="573" as="sourcePoint" />
+            <mxPoint x="1099" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-17" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;curved=1;" target="LD4Y7jaBsphct8bkbTKW-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1064" y="663" as="sourcePoint" />
+            <mxPoint x="1192" y="724" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;fontSize=18;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;@magic-platform/magic-mobile&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;DxfHdrzcuoXOEqxZpcIcURhInae&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;@magic-platform/magic-box&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+p&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7068583431243890692&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:23,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;JIQad8sEWowKi4xaQBFcA7dcnKf&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="1006" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-19" edge="1" parent="1" source="9hOhRMqw4yTQhJWyc-Z4-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="9hOhRMqw4yTQhJWyc-Z4-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1046" y="219" as="sourcePoint" />
+            <mxPoint x="1207" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9hOhRMqw4yTQhJWyc-Z4-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=none;sketch=1;fontSize=18;strokeColor=#d79b00;" value="&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;DxfHdrzcuoXOEqxZpcIcURhInae&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-JIQad8sEWowKi4xaQBFcA7dcnKf&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;@magic/shared-component&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="38" width="170" x="1092" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="LD4Y7jaBsphct8bkbTKW-26" edge="1" parent="1" source="LD4Y7jaBsphct8bkbTKW-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#9933FF;fontColor=#1D3557;fillColor=#A8DADC;" target="LD4Y7jaBsphct8bkbTKW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1138" y="663" as="sourcePoint" />
+            <mxPoint x="1368" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
